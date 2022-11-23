@@ -1,0 +1,7 @@
+# Write a program to print given two numbers are equal or not
+a = int(input('enter an integer:'))
+b = int(input('enter an integer:'))
+if a == b:
+    print('a is equal to b')
+else:
+    print('both are not equal')
